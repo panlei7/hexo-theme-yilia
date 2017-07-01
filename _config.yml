@@ -3,7 +3,7 @@
 menu:
   主页: /
   # 所有文章: /archives/
-  # 调试: /bugs/
+  调试: /bugs/
   # 随笔: /tags/随笔/
   # 标签云: /tags/
   # 关于我: /about/
@@ -75,7 +75,7 @@ share_jia: true
 duoshuo: false
 
 #2、网易云跟帖
-wangyiyun: true
+wangyiyun: "f814e81f2a5a44588ffeff7ead48a8c0"
 
 #3、畅言
 changyan_appid: false
